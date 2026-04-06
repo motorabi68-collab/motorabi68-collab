@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Mohammad! 👋
 
-<!--
-**motorabi68-collab/motorabi68-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 AI Automation Engineer | Full-Stack Developer | DevOps Specialist
 
-Here are some ideas to get you started:
+I transform business chaos into streamlined workflows using AI and Automation. 
+Currently specializing in Autonomous AI Agents and custom n8n integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠 **Featured Project:** AI-Powered Clinic Assistant (n8n + Gmail + Calendar).
+- 🚀 **Skills:** Workflow Automation, Python, Node.js, Cloud Security, DevOps.
+- 🎯 **What I do:** I build systems that think, so you don't have to.
+
+---
+📫 **Let's build something smart:** motorabi68@gmail.com
